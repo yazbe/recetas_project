@@ -1,6 +1,6 @@
 
 TITLE: 
-Savory - 100% Fully Responsive Free HTML5 Bootstrap Template
+Sabores de México. 
 
 AUTHOR:
 DESIGNED & DEVELOPED by GetTemplates.co
